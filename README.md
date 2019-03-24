@@ -38,19 +38,19 @@
 - [中南大学](http://xcb.csu.edu.cn/info/1027/1083.htm)
 - [中山大学](http://home3.sysu.edu.cn/sysuvi/)
 - [华南理工大学](https://www.scut.edu.cn/new/9017/list.htm)
-- [四川大学](http://www.scu.edu.cn/xxgknew/cdbs/xm.htm) [连接二](http://www2.scu.edu.cn/news2012/cdzx/webinfo/2014/06/1402363144468459.htm)
+- [四川大学](http://www.scu.edu.cn/xxgknew/cdbs/xm.htm) [链接二](http://www2.scu.edu.cn/news2012/cdzx/webinfo/2014/06/1402363144468459.htm)
 - [重庆大学](https://www.cqu.edu.cn/Channel/000-002-001-003/1/index.html)
-- 电子科技大学
-- 西安交通大学
-- 西北工业大学
-- 兰州大学
+- [电子科技大学](http://www.photo.uestc.edu.cn/index/detail?cateId=8&pictureId=775)
+- [西安交通大学](http://vi.xjtu.edu.cn/)
+- [西北工业大学](https://news.nwpu.edu.cn/zdzy/link/xxsbvis/xxsb.htm)
+- [兰州大学](http://www.lzu.edu.cn/static/xiaohui/)
 - 国防科技大学
-- 东北大学
+- [东北大学](https://www.neu.edu.cn/info_title.html)
 - 郑州大学
-- 湖南大学
-- 云南大学
-- 西北农林科技大学
-- 新疆大学
+- [湖南大学](http://www.hnu.edu.cn/hdgk/xywh/xh.htm)
+- [云南大学](https://www.ynu.edu.cn/xxgk/sbyd.htm)
+- [西北农林科技大学](http://xj.nwsuaf.edu.cn/xxsbxt/27800.htm)
+- [新疆大学](http://www.xju.edu.cn/xxgk/xdbs.htm)
 
 ### 二、一流学科建设高校95所
 
@@ -138,7 +138,7 @@
 - 贵州大学
 - 西藏大学
 - 西北大学
-- 西安电子科技大学
+- [西安电子科技大学](http://xcb.xidian.edu.cn/info/1008/1094.htm)
 - 长安大学
 - 陕西师范大学
 - 青海大学
