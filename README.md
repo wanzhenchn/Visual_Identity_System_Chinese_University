@@ -1,7 +1,11 @@
 # 中国重点大学视觉形象识别系统网址集合
 
-视觉形象识别系统(Visual Identity System of Chinese University, VIS) 是由代表学校视觉形象的识别元素及其组合变化构成的系统，适用于学校及各二级单位办公会务、形象宣传、文体活动等方面。本项目收集了国内各大高校视觉形象识别系统网址，方便各校师生下载所需矢量素材。版权归属原单位。
-分类依据来自[中国学位与研究生教育信息网](http://www.chinadegrees.cn/xwyyjsjyxx/xwbl/zdjs/syl/)
+视觉形象识别系统(Visual Identity System of Chinese University, VIS) 是由代表学校视觉形象的识别元素及其组合变化构成的系统，适用于学校及各二级单位办公会务、形象宣传、文体活动等方面。
+
+本项目收集了国内重点高校视觉形象识别系统网址，方便各校师生下载所需矢量素材。排序来自[中国学位与研究生教育信息网](http://www.chinadegrees.cn/xwyyjsjyxx/xwbl/zdjs/syl/)
+
+版权归属原单位。
+
 
 ## “双一流”建设高校
 ### 一、一流大学建设高校42所
