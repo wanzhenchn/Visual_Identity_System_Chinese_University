@@ -2,18 +2,18 @@
 
 视觉形象识别系统(Visual Identity System of Chinese University, VIS) 是由代表学校视觉形象的识别元素及其组合变化构成的系统，适用于学校及各二级单位办公会务、形象宣传、文体活动等方面。
 
-本项目收集了国内重点高校视觉形象识别系统网址，方便各校师生下载所需矢量素材。排序来自[中国学位与研究生教育信息网](http://www.chinadegrees.cn/xwyyjsjyxx/xwbl/zdjs/syl/)
+本项目收集了国内重点高校（排序参照[中国学位与研究生教育信息网](http://www.chinadegrees.cn/xwyyjsjyxx/xwbl/zdjs/syl/)）视觉形象识别系统网址，方便各校师生下载所需矢量素材。
 
-版权归属原单位。
+版权归属原单位所有
 
 
 ## “双一流”建设高校
 ### 一、一流大学建设高校42所
-- [北京大学视觉形象识别系统](https://vim.pku.edu.cn/xzzq/index.htm)
-- [中国人民大学视觉形象识别系统](http://jiaowu.ruc.edu.cn/wjxz6/jxyx3/5b78134c8ce64102a757a0d9b98db493.htm)
+- [北京大学](https://vim.pku.edu.cn/xzzq/index.htm)
+- [中国人民大学](http://jiaowu.ruc.edu.cn/wjxz6/jxyx3/5b78134c8ce64102a757a0d9b98db493.htm)
 - 清华大学
 - [北京航空航天大学](http://xcb.buaa.edu.cn/jswhjs/xxsbsj/index.htm)
-- [北京理工大学视觉形象识别系统](http://www.bit.edu.cn/gbxxgk/gbjswh/vixx/index.htm)
+- [北京理工大学](http://www.bit.edu.cn/gbxxgk/gbjswh/vixx/index.htm)
 - [中国农业大学](http://www.cau.edu.cn/col/col10258/index.html)
 - [北京师范大学](https://xcb.bnu.edu.cn/fwzn/xzzx/)
 - 中央民族大学
@@ -24,11 +24,11 @@
 - 哈尔滨工业大学
 - 复旦大学
 - 同济大学
-- [上海交通大学视觉形象识别系统](http://vi.sjtu.edu.cn/)
+- [上海交通大学](http://vi.sjtu.edu.cn/)
 - 华东师范大学
-- [南京大学视觉形象识别系统](https://www.nju.edu.cn/3647/list.htm#wen2)
+- [南京大学](https://www.nju.edu.cn/3647/list.htm#wen2)
 - 东南大学
-- [浙江大学视觉形象识别系统](http://www.zju.edu.cn/572/list.htm)
+- [浙江大学](http://www.zju.edu.cn/572/list.htm)
 - 中国科学技术大学
 - 厦门大学
 - 山东大学
@@ -39,7 +39,7 @@
 - 中山大学
 - 华南理工大学
 - 四川大学
-- [重庆大学视觉形象识别系统](https://www.cqu.edu.cn/Channel/000-002-001-003/1/index.html)
+- [重庆大学](https://www.cqu.edu.cn/Channel/000-002-001-003/1/index.html)
 - 电子科技大学
 - 西安交通大学
 - 西北工业大学
@@ -65,7 +65,7 @@
 - 首都师范大学
 - 北京外国语大学
 - 中国传媒大学
-- [中央财经大学视觉形象识别系统](http://www.cufe.edu.cn/xxgk/xxbs/sjxxsbxt0/101339.htm)
+- [中央财经大学](http://www.cufe.edu.cn/xxgk/xxbs/sjxxsbxt0/101339.htm)
 - 对外经济贸易大学
 - 外交学院
 - 中国人民公安大学
@@ -103,7 +103,7 @@
 - 南京理工大学
 - 中国矿业大学
 - 南京邮电大学
-- [河海大学视觉形象识别系统](http://www.hhu.edu.cn/236/list.htm)
+- [河海大学](http://www.hhu.edu.cn/236/list.htm)
 - 江南大学
 - 南京林业大学
 - 南京信息工程大学
