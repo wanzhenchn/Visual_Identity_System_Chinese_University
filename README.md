@@ -95,11 +95,11 @@
 - [上海中医药大学](https://www.shutcm.edu.cn/196/list.htm)
 - [上海外国语大学](http://www.shisu.edu.cn/about/identity-guidelines)
 - 上海财经大学
-- 上海体育学院
-- 上海音乐学院
+- [上海体育学院](http://xcb.sus.edu.cn/VISxz.htm)
+- [上海音乐学院](http://www.shcmusic.edu.cn/view_0.aspx?cid=470&id=3&navindex=0)
 - 上海大学
-- 苏州大学
-- 南京航空航天大学
+- [苏州大学](http://www.suda.edu.cn/portal/uis.html)
+- [南京航空航天大学](http://www.nuaa.edu.cn/589/list.htm)
 - 南京理工大学
 - 中国矿业大学
 - 南京邮电大学
