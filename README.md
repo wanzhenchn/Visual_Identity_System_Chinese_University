@@ -84,13 +84,13 @@
 - 内蒙古大学
 - 辽宁大学
 - 大连海事大学
-- 延边大学
+- [延边大学](http://www.ybu.edu.cn/xxgk/ydbs.htm)
 - [东北师范大学](http://sjxxsbxt.nenu.edu.cn/)
-- 哈尔滨工程大学
+- [哈尔滨工程大学](http://www.hrbeu.edu.cn/xygk/xywh.aspx)
 - 东北农业大学
-- 东北林业大学
-- 华东理工大学
-- 东华大学
+- [东北林业大学](https://lib.nefu.edu.cn/xywh.html)
+- [华东理工大学](http://xiaoban.ecust.edu.cn/10389/list.htm)
+- [东华大学](http://www.dhu.edu.cn/5952/list.htm)
 - [上海海洋大学](https://www.shou.edu.cn/82/1a/c294a33306/page.psp)
 - [上海中医药大学](https://www.shutcm.edu.cn/196/list.htm)
 - [上海外国语大学](http://www.shisu.edu.cn/about/identity-guidelines)
@@ -139,7 +139,7 @@
 - 西藏大学
 - 西北大学
 - [西安电子科技大学](http://xcb.xidian.edu.cn/info/1008/1094.htm)
-- 长安大学
+- [长安大学](http://office.chd.edu.cn/xxbs/xxbs.htm)
 - 陕西师范大学
 - 青海大学
 - 宁夏大学
