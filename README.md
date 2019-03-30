@@ -100,11 +100,11 @@
 - 上海大学
 - [苏州大学](http://www.suda.edu.cn/portal/uis.html)
 - [南京航空航天大学](http://www.nuaa.edu.cn/589/list.htm)
-- 南京理工大学
-- 中国矿业大学
-- 南京邮电大学
+- [南京理工大学](http://zs.njust.edu.cn/_upload/article/files/3b/d8/07e54d3a46048e73bc3f7ffbe7f7/3429cb10-f950-4191-a230-fea13eea9949.pdf)
+- [中国矿业大学](http://xcb.cumt.edu.cn/67/3e/c2509a157502/page.htm)
+- [南京邮电大学](http://www.njupt.edu.cn/12/list.htm)
 - [河海大学](http://www.hhu.edu.cn/236/list.htm)
-- 江南大学
+- [江南大学](http://www.jiangnan.edu.cn/xxgk/xxbs.htm)
 - 南京林业大学
 - 南京信息工程大学
 - 南京农业大学
