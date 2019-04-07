@@ -117,7 +117,7 @@
 - [福州大学](https://www.fzu.edu.cn/html/xxgk/xbxx/1.html)
 - [南昌大学](http://www.ncu.edu.cn/xxgk/xxxg.html)
 - 河南大学
-- 中国地质大学
+- [中国地质大学](http://www.cugb.edu.cn/shtml/admission/logo.shtml) [北京](http://bm.cugb.edu.cn/vis/xmgf/493469.shtml)
 - 武汉理工大学
 - 华中农业大学
 - 华中师范大学
