@@ -118,11 +118,11 @@
 - [南昌大学](http://www.ncu.edu.cn/xxgk/xxxg.html)
 - 河南大学
 - [中国地质大学](http://www.cugb.edu.cn/shtml/admission/logo.shtml) [北京](http://bm.cugb.edu.cn/vis/xmgf/493469.shtml)
-- 武汉理工大学
-- 华中农业大学
-- 华中师范大学
-- 中南财经政法大学
-- 湖南师范大学
+- [武汉理工大学](http://dept.whut.edu.cn/xb/cycx/xxbs/)
+- [华中农业大学](http://xchb.hzau.edu.cn/info/1023/1115.htm)
+- [华中师范大学](http://xcb.ccnu.edu.cn/info/1011/1012.htm)
+- [中南财经政法大学](http://www.zuel.edu.cn/motto_ui/)
+- [湖南师范大学](http://www.hunnu.edu.cn/xxgk/xxbs.htm) [文件](http://xiaob.hunnu.edu.cn/info/1021/4606.htm)
 - 暨南大学
 - 广州中医药大学
 - 华南师范大学
