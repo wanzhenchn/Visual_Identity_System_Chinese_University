@@ -124,9 +124,9 @@
 - [中南财经政法大学](http://www.zuel.edu.cn/motto_ui/)
 - [湖南师范大学](http://www.hunnu.edu.cn/xxgk/xxbs.htm) [文件](http://xiaob.hunnu.edu.cn/info/1021/4606.htm)
 - 暨南大学
-- 广州中医药大学
-- 华南师范大学
-- 海南大学
+- [广州中医药大学](http://xcb.gzucm.edu.cn/info/1013/1192.htm)
+- [华南师范大学](http://www.scnu.edu.cn/a/20150906/2.html)
+- [海南大学](https://www.hainanu.edu.cn/STM/home2013/SHTML_liebiao.asp@bbsid=4621.shtml)
 - 广西大学
 - 西南交通大学
 - 西南石油大学
