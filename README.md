@@ -128,9 +128,9 @@
 - [华南师范大学](http://www.scnu.edu.cn/a/20150906/2.html)
 - [海南大学](https://www.hainanu.edu.cn/STM/home2013/SHTML_liebiao.asp@bbsid=4621.shtml)
 - 广西大学
-- 西南交通大学
-- 西南石油大学
-- 成都理工大学
+- [西南交通大学](https://office.swjtu.edu.cn/vis/)
+- [西南石油大学](http://www.swpu.edu.cn/2016revision/xxgk.jsp?urltype=tree.TreeTempUrl&wbtreeid=1539)
+- [成都理工大学](http://www.cdut.edu.cn//type/020300011704.html)
 - 四川农业大学
 - 成都中医药大学
 - 西南大学
