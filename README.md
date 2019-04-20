@@ -1,4 +1,4 @@
-# 中国重点大学视觉形象识别系统网址集合
+# 中国双一流大学视觉形象识别系统网址集合 （Visual Identity System of Chinese Double First-Class University websites）
 
 视觉形象识别系统(Visual Identity System of Chinese University, VIS) 是由代表学校视觉形象的识别元素及其组合变化构成的系统，适用于学校及各二级单位办公会务、形象宣传、文体活动等方面。
 
