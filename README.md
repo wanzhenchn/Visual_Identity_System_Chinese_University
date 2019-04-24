@@ -134,11 +134,11 @@
 - [成都理工大学](http://www.cdut.edu.cn//type/020300011704.html)
 - 四川农业大学
 - 成都中医药大学
-- 西南大学
-- 西南财经大学
-- 贵州大学
+- [西南大学](http://dwxcbwlgzb.swu.edu.cn/s/xcb/ziliaoxiazai/20151227/194395.html)
+- [西南财经大学](https://www.swufe.edu.cn/4633.html)
+- [贵州大学](http://www.gzu.edu.cn/226/list.htm)
 - 西藏大学
-- 西北大学
+- [西北大学](http://www.nwu.edu.cn/home/index/article/mid/3900/id/173631.html#Menu=5)
 - [西安电子科技大学](http://xcb.xidian.edu.cn/info/1008/1094.htm)
 - [长安大学](http://office.chd.edu.cn/xxbs/xxbs.htm)
 - 陕西师范大学
