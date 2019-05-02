@@ -141,12 +141,12 @@
 - [西北大学](http://www.nwu.edu.cn/home/index/article/mid/3900/id/173631.html#Menu=5)
 - [西安电子科技大学](http://xcb.xidian.edu.cn/info/1008/1094.htm)
 - [长安大学](http://office.chd.edu.cn/xxbs/xxbs.htm)
-- 陕西师范大学
+- [陕西师范大学](http://www.snnu.edu.cn/xxgk/sdbs.htm)
 - 青海大学
 - 宁夏大学
-- 石河子大学
-- 中国石油大学
-- 宁波大学
-- 中国科学院大学
+- [石河子大学](http://www.shzu.edu.cn/64/list.htm)
+- [中国石油大学](https://www.cupk.edu.cn/zhb/c/2017-10-21/491889.shtml)
+- [宁波大学](https://www.nbu.edu.cn/ndgk/xhxb.htm)
+- [中国科学院大学](http://www.ucas.ac.cn/site/11?zu=27083)
 - 第二军医大学
 - 第四军医大学
