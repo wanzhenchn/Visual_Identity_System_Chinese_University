@@ -148,5 +148,5 @@
 - [中国石油大学](https://www.cupk.edu.cn/zhb/c/2017-10-21/491889.shtml)
 - [宁波大学](https://www.nbu.edu.cn/ndgk/xhxb.htm)
 - [中国科学院大学](http://www.ucas.ac.cn/site/11?zu=27083)
-- 第二军医大学
-- 第四军医大学
+- [第二军医大学](http://www.smmu.edu.cn/133/list.htm)
+- {第四军医大学](https://www.fmmu.edu.cn/xxgk/xxbz1.htm)
