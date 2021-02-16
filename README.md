@@ -47,7 +47,7 @@
 - [兰州大学](http://www.lzu.edu.cn/static/xiaohui/)
 - 国防科技大学
 - [东北大学](https://www.neu.edu.cn/info_title.html)
-- 郑州大学
+- [郑州大学](http://www.zzu.edu.cn/xxgk/whbs.htm)
 - [湖南大学](http://www.hnu.edu.cn/hdgk/xywh/xh.htm)
 - [云南大学](https://www.ynu.edu.cn/xxgk/sbyd.htm)
 - [西北农林科技大学](http://xj.nwsuaf.edu.cn/xxsbxt/27800.htm)
