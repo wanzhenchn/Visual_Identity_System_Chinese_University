@@ -114,7 +114,7 @@
 - [南京师范大学](http://www.njnu.edu.cn/xxgk/xbxg.htm)
 - 中国美术学院
 - [安徽大学](http://www.ahu.edu.cn/149/list.htm)
-- [合肥工业大学](https://www.hfut.edu.cn/5298/list.htm)
+- [合肥工业大学](https://www.hfut.edu.cn/xxgk1/gdbs.htm)
 - [福州大学](https://www.fzu.edu.cn/html/xxgk/xbxx/1.html)
 - [南昌大学](http://www.ncu.edu.cn/xxgk/xxxg.html)
 - 河南大学
