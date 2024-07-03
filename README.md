@@ -118,7 +118,8 @@
 - [福州大学](https://www.fzu.edu.cn/html/xxgk/xbxx/1.html)
 - [南昌大学](http://www.ncu.edu.cn/xxgk/xxxg.html)
 - 河南大学
-- [中国地质大学](http://www.cugb.edu.cn/shtml/admission/logo.shtml) [北京](http://bm.cugb.edu.cn/vis/xmgf/493469.shtml)
+- [中国地质大学（武汉）](https://vis.cug.edu.cn/)
+- [中国地质大学（北京）](https://bm.cugb.edu.cn/vis/)
 - [武汉理工大学](http://dept.whut.edu.cn/xb/cycx/xxbs/)
 - [华中农业大学](http://xchb.hzau.edu.cn/info/1023/1115.htm)
 - [华中师范大学](http://xcb.ccnu.edu.cn/info/1011/1012.htm)
